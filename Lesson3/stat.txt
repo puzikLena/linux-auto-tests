@@ -1,0 +1,11 @@
+22:15:27.450965,   total files: 1,  size: 10M,   proc load: 3.63 3.24 2.72 1/631 5266
+22:15:27.589694,   total files: 1,  size: 10M,   proc load: 3.63 3.24 2.72 1/631 5276
+22:15:28.985579,   total files: 1,  size: 10M,   proc load: 3.63 3.24 2.72 2/631 5290
+22:15:30.445144,   total files: 1,  size: 10M,   proc load: 3.63 3.24 2.72 1/631 5304
+22:15:30.475549,   total files: 1,  size: 10M,   proc load: 3.63 3.24 2.72 2/631 5308
+22:15:30.572316,   total files: 1,  size: 10M,   proc load: 3.90 3.30 2.75 5/631 5312
+22:15:30.797114,   total files: 1,  size: 10M,   proc load: 3.90 3.30 2.75 2/631 5318
+22:15:32.314165,   total files: 1,  size: 10M,   proc load: 3.90 3.30 2.75 1/631 5330
+22:15:35.178258,   total files: 1,  size: 10M,   proc load: 3.90 3.30 2.75 1/632 5353
+22:15:35.363628,   total files: 1,  size: 10M,   proc load: 3.90 3.30 2.75 1/632 5363
+

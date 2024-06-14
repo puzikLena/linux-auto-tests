@@ -1,0 +1,7 @@
+FOLDER_IN: /home/ubuntu/tst
+FOLDER_OUT: /home/ubuntu/out
+FOLDER_EXTRACT: /home/ubuntu/folder1
+FOLDER_EXTRACT2: /home/ubuntu/folder_test
+count: 3
+size: 5M
+extension: zip
